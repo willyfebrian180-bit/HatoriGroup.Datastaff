@@ -1,0 +1,22 @@
+<div id="dashboard">
+  <!-- Kartu akan dimuat di sini -->
+  <div class="card">
+    <div class="title">Total Keseluruhan Staff</div>
+    <div id="totalKeseluruhan" class="count">Loading...</div>
+  </div>
+
+  <div class="card">
+    <div class="title">Total Staff InaTogel</div>
+    <div id="totalInaTogel" class="count">Loading...</div>
+  </div>
+
+  <div class="card">
+    <div class="title">Total Staff Kepritogel</div>
+    <div id="totalKepritogel" class="count">Loading...</div>
+  </div>
+
+  <div class="card">
+    <div class="title">Total Staff PNG</div>
+    <div id="totalPNG" class="count">Loading...</div>
+  </div>
+</div>
